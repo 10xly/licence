@@ -5,7 +5,7 @@ This license is for your Enterprise-Grade 10x Projects.
 
 Below, you can copy paste the license:
 
-```sh
+```yaml
 Enterprise General Public Software License 10x 
 Version 1.0 (EGPSL10X-1.0)
 
