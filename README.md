@@ -1,9 +1,9 @@
-# Enterprise General Public Software License 10x 
-10x Enterprise-Grade Software License
+# Enterprise General Public Software Licence 10x 
+10x Enterprise-Grade Software Licence
 
 This license is for your Enterprise-Grade 10x Projects.
 
-Below, you can copy paste the license:
+Below, you can copy paste the licence:
 
 ```yaml
 Enterprise General Public Software License 10x 
